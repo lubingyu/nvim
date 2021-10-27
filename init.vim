@@ -97,6 +97,9 @@ call plug#begin('~/.vim/plugged')
 " === airline
 Plug 'vim-airline/vim-airline'
 
+"=== startify
+Plug 'mhinz/vim-startify'
+
 Plug 'preservim/nerdtree'
 Plug 'ryanoasis/vim-devicons'
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
